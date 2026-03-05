@@ -1,4 +1,5 @@
-# DDI-Midterm-Project
+# DDI 26-A Midterm Data Analysis Project
+
 # **Background**
 ---
 The Vinho Verde Region of Northern Portugal is Portugal's largest wine region, located in the lush, northwest Minho province. Renown for its fresh, high-acid, often slightly sparkling white wines, this coastal, cool-climate, and high-rainfall region consists of nine sub-regions and produces white, red, and rose varieties of wine. It spans from the Atlantic Coastline in the West to the Freita, Arada, and Montemoru mountains to the East, down to the Douro River in the South and up to the Minho River in the North.
