@@ -49,18 +49,18 @@ Each of the wines are scored on a quality scale of 3-8 for red wine, and 3-9 for
 
 # **Exploratory Data Analysis**
 ---
-            Finding the Mean for each Feature Based on Quality Rating
+    Finding the Mean for each Feature Based on Quality Rating
 Because of the wildly varying numbers and ranges of numbers with each feature/chemical component, having this visual representation paints a picture of the quality ratings and what the features range from based on the quality score. As you can see, it’s a bit difficult to tell what the other features show because the total sulfur dioxide and free sulfur dioxide are such a large number.
 ![](images/AvgWineDF.png)
 
 ---
-        Finding the Mean for each Feature Based on Quality Rating, but MINUS Total Sulfur Dioxide and Free Sulfur Dioxide Categories
+    Finding the Mean for each Feature Based on Quality Rating, but MINUS Total Sulfur Dioxide and Free Sulfur Dioxide Categories
 Therefore, I stripped the chart of those categories, and we get a better understanding. The first most obvious discovery was that a greater alcohol percentage meant a higher quality score.
 ![](images/AvgWineDFMinusSO2.png)
 
 
 ---
-                    Alcohol's Effect/Impact on Quality Ratings
+    Alcohol's Effect/Impact on Quality Ratings
 Here’s a better look at alcohol’s impact on the quality score. There is a sharp increase from 5-9. Also, I want to note that in the white wine dataset, the quality score went up to 9. However, in the red wine dataset for some reason, the quality score only went up to 8. That’s why you see that large confidence interval between 8 and 9.
 ![](images/AlcoholandQuality.png)
 
@@ -70,21 +70,21 @@ Now here we home in on the smaller values so we can get a more granular look. We
 ![](images/AvgWineDFonly6columns.png)
 
 ---
-                Chloride and Citric Acid Relationship with Quality
+    Chloride and Citric Acid Relationship with Quality
 Here is a closer look at that. I do want to note that I took off the top 20% of each of these values to get rid of the outliers and get a better view of the increase and decrease that’s occurring. Because these numbers are so small, it’s hard to really tell, but this approach to wine making is clearly important when desiring higher quality scores from consumers. Less chlorides leads to a cleaner, less harsh, and more palatable wine. While higher acidification, particularly in white wines, provides liveliness and freshness of the wine, pronouncing more fruity flavors.
 ![](images/FeatureCorrelationwithWineQuality.png)
 
 ---
-                Density's Effect on Quality
+    Density's Effect on Quality
 Finally, I focused in on density and residual sugar. As residual sugar increases, density increases. And as density decreases, alcohol percentage increases. As we recall, alcohol percentage has a massive impact on the quality scores of the wine.
 ![](images/DensityGraphs.png)
 
 ---
-                Density's Effect on Quality - Red Wine Only Dataset
+    Density's Effect on Quality - Red Wine Only Dataset
 When density's effect on quality is broken down on the red only dataset and white only dataset, you can see similarities, but also some notable differences.
 ![](images/DensityvsQualityinRedWines.png)
 
-                Density's Effect on Quality - White Wine Only Dataset
+    Density's Effect on Quality - White Wine Only Dataset
 The wider flare on the quality score of "9" on the white wine dataset means there are very few datapoints with that quality score, so the confidence interval (estimate) is much less certain.
 ![](images/DensityvsQualityinWhiteWines.png)
 
