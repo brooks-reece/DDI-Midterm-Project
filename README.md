@@ -100,3 +100,5 @@ It's important to remember that these wine varieties come from a specific region
 # **Future Areas of Research**
 ---
 For future research, I think it would be highly beneficial to do a similar data analysis of a dataset of similar size from one of the most popular and largest producing regions of the world for wine and seeing how it compares to this one. Regions like Napa Valley, California; Castilla La-Mancha, Spain; Veneto, Italy; or Bordeaux, France.
+
+![](images/Top10BiggestWineProducersbyCountry.png)
