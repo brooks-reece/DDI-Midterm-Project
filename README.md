@@ -4,7 +4,7 @@
 ---
 The Vinho Verde Region of Northern Portugal is Portugal's largest wine region, located in the lush, northwest Minho province. Renown for its fresh, high-acid, often slightly sparkling white wines, this coastal, cool-climate, and high-rainfall region consists of nine sub-regions and produces white, red, and rose varieties of wine. It spans from the Atlantic Coastline in the West to the Freita, Arada, and Montemoru mountains to the East, down to the Douro River in the South and up to the Minho River in the North.
 
-"Vinho Verde" refers to the region rather than "green" wine or young, unripe grapes. The name hints at the young, fresh, and lively nature of the wine. The producers and winemakers of the beautiful region are eager to share their increasingly sophisticated, complex wines with the world.
+"Vinho Verde" refers to the region rather than "green" wine or young, unripe grapes. The name hints at the young, fresh, and lively nature of the wine. The producers and winemakers of the beautiful region are eager to share their increasingly sophisticated, complex wines with the rest of the world.
 
 ![](images/Vinho_Verde_Panther_1.jpg)
 
